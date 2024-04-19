@@ -1,0 +1,19 @@
+{
+  "name": "code_with_fajur_word_counter",
+  "version": "1.0.0",
+  "description": "This project is mainly about word counting,I made this word counter using typescript,node.js,inquirer & chalk",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DUA MAJEED",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
